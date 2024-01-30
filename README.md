@@ -14,3 +14,5 @@ I intend to fortify the encryption process in this project once I get some more 
 2. Change the directory to the project directory
 3. Compile and run the code using the command below:
 -     python3 passwordManager.py
+
+- Note: You need to have MongoDB installed to be able to run the project. You can also additionally install Compass to visualise the database. 
