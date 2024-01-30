@@ -11,6 +11,6 @@ I intend to fortify the encryption process in this project once I get some more 
 
 # How To run
 1. Navigate to terminal
-2. Change the directory to the project directory and then to the simplegame folder, where the source code is located
+2. Change the directory to the project directory
 3. Compile and run the code using the command below:
--     python3 game.py
+-     python3 passwordManager.py
